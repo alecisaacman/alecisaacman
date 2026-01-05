@@ -1,16 +1,19 @@
-## Hi there 👋
+# Alec Isaacman
 
-<!--
-**alecisaacman/alecisaacman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied economics student with a focus on machine learning and large language models as measurement tools.
 
-Here are some ideas to get you started:
+## Interests
+- Applied microeconomics
+- Machine learning for economic measurement
+- Natural language processing
+- Labor markets and occupational risk
+- Reproducible research workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- **Construction Wage Premiums (CPS)**  
+  Applied econometric analysis of construction worker wage differentials using IPUMS CPS data.
+
+- **LLM-Based Occupational Risk Measurement (CPS + O*NET)**  
+  Large language models used to convert occupational text into structured risk measures merged into U.S. labor microdata.
+
+More projects below ↓
