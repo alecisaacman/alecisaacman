@@ -17,3 +17,7 @@ Applied economics student with a focus on machine learning and large language mo
   Large language models used to convert occupational text into structured risk measures merged into U.S. labor microdata.
 
 More projects below ↓
+
+
+## Tools
+Python · R · Jupyter/Colab · scikit-learn · tidyverse · NLP/LLMs
