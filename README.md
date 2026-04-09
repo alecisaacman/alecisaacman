@@ -34,12 +34,9 @@ This is the system I am actively building and iterating on.
 ## 🧩 Current Module
 
 ### networking-crm
-A working environment used by ARI to:
-- execute commands
-- record sessions
-- generate structured outputs
+An ARI module for command execution, session capture, artifact generation, and structured documentation.
 
-This is not the final product — it’s the system ARI is learning to operate within.
+It is one of the first real operating environments under ARI.
 
 ---
 
