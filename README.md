@@ -1,64 +1,92 @@
 # Alec Isaacman
 
-Building systems at the intersection of **machine learning, automation, and real-world execution**.
+Economics, machine learning, automation, and execution systems.
 
-Currently focused on turning work into structured outputs, proof, and reusable systems.
-
----
-
-## 🚀 Current Focus: ARI
-
-**ARI is a command brain.**
-
-It interprets goals, holds context, makes decisions, and routes work to specialized systems.
-
-I’m building ARI locally from the ground up — not as a chatbot, but as a system that:
-- executes real commands
-- records what happens
-- generates artifacts (videos, clips, frames)
-- turns work into structured documentation and content
-
-### Active System: Documentation Machine V1
-
-Given a real work session, ARI produces:
-- activity + progress summaries
-- proof of what actually happened
-- saved artifacts (clips, frames, sessions)
-- LinkedIn drafts
-- short-form video scripts
-
-This is the system I am actively building and iterating on.
+Currently building local-first agentic infrastructure focused on structured execution, explainable orchestration, and operational tooling.
 
 ---
 
-## 🧩 Current Module
+## Current Focus: ARI
 
-### networking-crm
-An ARI module for command execution, session capture, artifact generation, and structured documentation.
+ARI is a local-first agentic operating system.
 
-It is one of the first real operating environments under ARI.
+The project is built around a simple idea:
+
+> one canonical intelligence, many surfaces.
+
+ARI is the brain.
+
+ACE is the interface doctrine and ambient surface layer.
+
+The system is being built to:
+
+- maintain shared operational state
+- track open loops and execution history
+- structure messy real-world workflows
+- generate explainable signals and alerts
+- expose multiple interfaces over the same canonical system
+- preserve human approval boundaries around external actions
+
+The architecture currently centers around:
+
+- canonical Python runtime
+- FastAPI service layer
+- Next.js hub surface
+- local-first persistence
+- orchestration and signal pipelines
+- Telegram/mobile surface direction
+- future inspection and explainability tooling
 
 ---
 
-## 📊 Selected Projects
+## Current Proof Module: Career Command
 
-- **Construction Wage Premiums (CPS)**  
-  Econometric analysis of construction wage differentials using IPUMS CPS data
+Career Command is the first practical ARI execution workflow.
 
-- **LLM-Based Occupational Risk Measurement (CPS + O*NET)**  
-  Using language models to convert occupational text into structured risk measures
+It focuses on:
 
-- **FOMC QA Measurement (LLMs)**  
-  Evaluating how well LLMs interpret and retrieve monetary policy information
+- job scouting
+- fit evaluation
+- outreach drafting
+- approval queues
+- execution tracking
+- career workflow automation
+
+The objective is not merely automating applications.
+
+The objective is demonstrating that ARI can convert messy operational work into a structured, inspectable, approval-gated execution system.
 
 ---
 
-## 🛠 Tools
+## Selected Projects
 
-Python • R • Jupyter/Colab • scikit-learn • NLP/LLMs
+### ARI
+Local-first agentic operating system focused on execution, explainability, orchestration, and shared state.
+
+### Construction Wage Premiums (CPS)
+Econometric analysis of construction wage differentials using IPUMS CPS data.
+
+### LLM-Based Occupational Risk Measurement (CPS + O*NET)
+Using language models to convert occupational text into structured occupational risk measures.
+
+### FOMC QA Measurement (LLMs)
+Evaluating how well language models interpret and retrieve monetary policy information.
 
 ---
 
-## 📍 Status
+## Tools
 
-Actively building ARI and expanding toward a full system of modular, execution-driven intelligence.
+Python • R • FastAPI • Postgres • Next.js • Docker • Jupyter • scikit-learn • NLP/LLMs
+
+---
+
+## Current Direction
+
+Building toward a durable local-first operational intelligence system with:
+
+- explainable orchestration
+- structured execution tracking
+- multi-surface state visibility
+- approval-gated automation
+- modular proof systems
+- inspectable memory and reasoning paths
